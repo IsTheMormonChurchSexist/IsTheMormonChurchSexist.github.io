@@ -1,0 +1,28 @@
+.center{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+p {
+    line-height: 20px;
+    font-family: "roboto-regular";
+}
+
+h1 {
+    font-family: "roboto-bold-condensed-italic"; 
+}
+
+@font-face { 
+	font-family: "roboto-regular"; 
+	src: url('fonts/Roboto-Regular.ttf'); 
+}
+
+@font-face { 
+	font-family: "roboto-bold-condensed-italic"; 
+	src: url('fonts/Roboto-BoldCondensedItalic.ttf'); 
+}
