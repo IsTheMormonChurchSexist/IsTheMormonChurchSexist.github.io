@@ -11,10 +11,35 @@
 p {
     line-height: 20px;
     font-family: "roboto-regular";
+    font-size: 16px;
 }
 
 h1 {
     font-family: "roboto-bold-condensed-italic"; 
+    font-size: 150px;
+    line-height: 20px;
+    color: #FFB4BF;
+}
+
+button {
+    display: inline-block;
+    background-color: #F0EBEC;
+    border-radius: 10px;
+    border: 4px;
+    color: black;
+    text-align: center;
+    font-family: "roboto-regular";
+    font-size: 16px;
+    padding: 8px;
+    width: 200px;
+    cursor: pointer;
+    margin: 40px;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+}
+
+button:hover {
+    background-color: #FFB4BF;
 }
 
 @font-face { 
