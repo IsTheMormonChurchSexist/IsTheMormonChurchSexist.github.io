@@ -1,0 +1,34 @@
+{
+    "quotes": [
+        {
+            "quote": "quotequotequote1",
+            "author": "M. Quoted1",
+            "year": "XXX1",
+            "web link": "https://website1.com"
+        },
+        {
+            "quote": "quotequotequote2",
+            "author": "M. Quoted2",
+            "year": "XXX2",
+            "web link": "https://website2.com"
+        },
+        {
+            "quote": "quotequotequote3",
+            "author": "M. Quoted3",
+            "year": "XXX3",
+            "web link": "https://website3.com"
+        },
+        {
+            "quote": "quotequotequote4",
+            "author": "M. Quoted4",
+            "year": "XXX4",
+            "web link": "https://website4.com"
+        },
+        {
+            "quote": "quotequotequote4",
+            "author": "M. Quoted4",
+            "year": "XXX4",
+            "web link": "https://website4.com"
+        }
+    ]
+}
