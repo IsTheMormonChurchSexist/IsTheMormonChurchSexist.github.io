@@ -9,7 +9,10 @@
     <title>Random Quotes</title>
 </head>
 
-<body>
+<body class="container">
+    <header>
+        <h1 class="titleHeader" onclick="location.href='/./landing_page.html';">Is the Mormon Church sexist? <span class="extra"> Yes! </span></h1>
+    </header>
     <div class="center">
         <div class="text" id="quoteDisplay"> 
         </div> 
@@ -17,7 +20,7 @@
             <span id="authorDisplay"></span>, <span id="dateDisplay"></span>
         </div>
         <div>
-            <a class="sourceText" id="sourceDisplay">
+            <a class="sourceText" id="sourceDisplay" target="_blank">
             </a>
         </div>
         <button type="button" onclick="newQuote()">
@@ -29,5 +32,3 @@
 
     <script src="functions.js"></script>
 </html>
-
-<!--onclick="window.open('https://google.com');"-->

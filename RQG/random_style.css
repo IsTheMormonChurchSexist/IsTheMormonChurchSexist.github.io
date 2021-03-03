@@ -1,3 +1,32 @@
+.container {
+    margin: 0px;
+}
+
+.titleHeader{
+    text-align: center;
+    font-family: "roboto-bold-condensed-italic";
+    color: white;
+    background-color: #F0EBEC;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    cursor: pointer;
+}
+
+.extra {
+    display: none;
+}
+
+.titleHeader:hover {
+    background-color: #FFB4BF;
+}
+
+.titleHeader:hover .extra{
+    display: inline-block;
+}
+
 .center{
     margin: 0;
     position: absolute;
