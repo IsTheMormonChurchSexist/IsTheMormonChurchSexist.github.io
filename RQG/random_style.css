@@ -75,6 +75,30 @@ button:hover {
     background-color: #FFB4BF;
 }
 
+#mySidenav a {
+    position: absolute; 
+    left: -90px; 
+    top: 400px;
+    transition: 0.3s; 
+    padding: 15px;
+    width: 100px; 
+    text-decoration: none;
+    font-size: 20px; 
+    color: white; 
+    border-radius: 0 5px 5px 0 ;
+    font-family: "roboto-regular";
+    font-size: 10px;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+  
+#about {
+    top: 20px;
+    background-color: #FFB4BF;
+}
+
 @font-face { 
 	font-family: "roboto-regular"; 
 	src: url('/fonts/Roboto-Regular.ttf'); 
