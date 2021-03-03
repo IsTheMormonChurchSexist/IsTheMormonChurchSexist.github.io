@@ -1,0 +1,12 @@
+[
+    {
+        "reason": "reason paragraph 1",
+        "source": "source description 1",
+        "weblink": "http://google.com"
+    },
+    {
+        "reason": "reason paragraph 2",
+        "source": "source description 2",
+        "weblink": "http://google.com"
+    }
+]

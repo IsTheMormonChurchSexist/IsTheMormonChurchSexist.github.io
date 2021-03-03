@@ -2,6 +2,12 @@
 Yes. Yes it is.
 
 
+# TODO
+-> generalize fonts
+-> add quotes
+-> "for you" or just "you"
+
+# IMPORTANT NOTES
 ,
     {
         "text": "",
