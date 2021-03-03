@@ -11,9 +11,10 @@
 .text{
     font-family: "roboto-regular";
     color: #FFB4BF;
+    margin: 15px;
 }
 
-.author{
+.authorSource {
     font-family: "roboto-regular";
 }
 

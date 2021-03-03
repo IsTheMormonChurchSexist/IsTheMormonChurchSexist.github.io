@@ -8,13 +8,13 @@
     text-align: center;
 }
 
-p {
+.landingText {
     line-height: 20px;
     font-family: "roboto-regular";
     font-size: 16px;
 }
 
-h1 {
+.title {
     font-family: "roboto-bold-condensed-italic"; 
     font-size: 150px;
     line-height: 20px;

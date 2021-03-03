@@ -1,34 +1,32 @@
-{
-    "quotes": [
-        {
-            "quote": "quotequotequote1",
-            "author": "M. Quoted1",
-            "year": "XXX1",
-            "web link": "https://website1.com"
-        },
-        {
-            "quote": "quotequotequote2",
-            "author": "M. Quoted2",
-            "year": "XXX2",
-            "web link": "https://website2.com"
-        },
-        {
-            "quote": "quotequotequote3",
-            "author": "M. Quoted3",
-            "year": "XXX3",
-            "web link": "https://website3.com"
-        },
-        {
-            "quote": "quotequotequote4",
-            "author": "M. Quoted4",
-            "year": "XXX4",
-            "web link": "https://website4.com"
-        },
-        {
-            "quote": "quotequotequote4",
-            "author": "M. Quoted4",
-            "year": "XXX4",
-            "web link": "https://website4.com"
-        }
-    ]
-}
+[
+    {
+        "text": "quotequotequote1",
+        "author": "M. Quoted1",
+        "year": "2001",
+        "web link": "https://google.com"
+    },
+    {
+        "text": "quotequotequote2",
+        "author": "M. Quoted2",
+        "year": "2002",
+        "web link": "https://youtube.com"
+    },
+    {
+        "text": "quotequotequote3",
+        "author": "M. Quoted3",
+        "year": "2003",
+        "web link": "https://www.lapresse.ca/"
+    },
+    {
+        "text": "quotequotequote4",
+        "author": "M. Quoted4",
+        "year": "2004",
+        "web link": "https://www.ledevoir.com/"
+    },
+    {
+        "text": "quotequotequote5",
+        "author": "M. Quoted5",
+        "year": "2005",
+        "web link": "https://www.journaldemontreal.com/"
+    }
+]
