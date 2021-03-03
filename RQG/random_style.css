@@ -75,27 +75,33 @@ button:hover {
     background-color: #FFB4BF;
 }
 
-#mySidenav a {
+.contributors {
     position: absolute; 
     left: -90px; 
     top: 400px;
     transition: 0.3s; 
     padding: 15px;
-    width: 100px; 
+    width: 80px; 
     text-decoration: none;
-    font-size: 20px; 
     color: white; 
     border-radius: 0 5px 5px 0 ;
     font-family: "roboto-regular";
     font-size: 10px;
+    background-color: #F0EBEC;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    cursor: default;
 }
 
-#mySidenav a:hover {
+.sideTitle {
+    padding-bottom: 10px;
+}
+
+.sidenav a:hover {
     left: 0;
 }
-  
-#about {
-    top: 20px;
+
+.contributors:hover {
     background-color: #FFB4BF;
 }
 
