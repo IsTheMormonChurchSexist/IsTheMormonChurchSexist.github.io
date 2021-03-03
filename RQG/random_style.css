@@ -14,8 +14,15 @@
     margin: 15px;
 }
 
-.authorSource {
+.authorYear {
     font-family: "roboto-regular";
+    margin-bottom: 20px;
+}
+
+.sourceText {
+    font-family: "roboto-regular";
+    font-size: 10px;
+    color: #aaa8a8;
 }
 
 button {
