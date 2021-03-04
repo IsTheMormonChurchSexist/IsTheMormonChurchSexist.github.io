@@ -6,6 +6,7 @@ Yes. Yes it is.
 -> generalize fonts
 -> add quotes
 -> "for you" or just "you"
+-> list of all quotes
 
 # IMPORTANT NOTES
 ,
