@@ -33,9 +33,9 @@ ______
 - Some personnal essays from me and / or friends
 
 ### TODO
-- [] Find collaborators
-- [] Review quotes
-- [] Clean code
-- [] List all quotes by year
-- [] MAKE RESPONSIVE
-- [] Develop web brand (maybe collage style? from Church magazines)
+- [ ] Find collaborators
+- [ ] Review quotes
+- [ ] Clean code
+- [ ] List all quotes by year
+- [ ] MAKE RESPONSIVE
+- [ ] Develop web brand (maybe collage style? from Church magazines)
