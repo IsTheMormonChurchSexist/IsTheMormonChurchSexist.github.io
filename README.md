@@ -12,7 +12,7 @@ To counter the denigration and in response to the very few ressources I could pe
 _I'm doing this part time with university dumping me work every other minute_ and _English isn't my main language_ and _I can't really work if my siblings or my parents are around_ and _I've never made a website, so **this might take a while.**_
 
 ### Where is the website ?
-👉 IsTheMormonChurchSexist.github.io
+👉 https://isthemormonchurchsexist.github.io/
 
 ### How can I help ?
 You can email me at isthemormonchurchsexist@gmail.com. 
