@@ -1,0 +1,22 @@
+.quote-group {
+  font-family: "roboto-regular";
+  font-size: 15px;
+}
+
+.articleTitle {
+  font-family: "roboto-bold-condensed-italic";
+}
+
+.article {
+  position: absolute;
+  left: 5%;
+  right: 25%;
+}
+
+.citation-group {
+  color: #aaa8a8;
+}
+
+.source-group {
+  color: #aaa8a8;
+}
