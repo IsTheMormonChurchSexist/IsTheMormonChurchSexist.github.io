@@ -4,9 +4,10 @@
 
 .titleHeader {
   text-align: center;
-  font-family: "roboto-bold-condensed-italic";
+  /*font-family: "roboto-regular";*/
+  font-family: "irvin";
   color: white;
-  background-color: #f0ebec;
+  background-color: #bdb9ba;
   margin: 0px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -28,7 +29,8 @@
 }
 
 .sorry {
-  font-family: "roboto-regular";
+  /*font-family: "roboto-regular";*/
+  font-family: "irvin";
   text-align: center;
   font-size: 20px;
 }
@@ -50,7 +52,8 @@
 }
 
 .authorYear {
-  font-family: "roboto-regular";
+  /*font-family: "roboto-regular";*/
+  font-family: "irvin";
   margin-bottom: 20px;
 }
 
@@ -62,12 +65,13 @@
 
 button {
   display: inline-block;
-  background-color: #f0ebec;
+  background-color: #bdb9ba;
   border-radius: 10px;
   border: 4px;
   color: black;
   text-align: center;
-  font-family: "roboto-regular";
+  /*font-family: "roboto-regular";*/
+  font-family: "irvin";
   font-size: 16px;
   padding: 8px;
   width: 100px;
@@ -93,7 +97,7 @@ button:hover {
   border-radius: 0 5px 5px 0;
   font-family: "roboto-regular";
   font-size: 10px;
-  background-color: #f0ebec;
+  background-color: #bdb9ba;
   transition-duration: 0.3s;
   transition-timing-function: ease-in-out;
   cursor: default;
@@ -119,4 +123,9 @@ button:hover {
 @font-face {
   font-family: "roboto-bold-condensed-italic";
   src: url("/fonts/Roboto-BoldCondensedItalic.ttf");
+}
+
+@font-face {
+  font-family: "irvin";
+  src: url("/fonts/Irvin-Heading.ttf");
 }

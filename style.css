@@ -10,12 +10,14 @@
 
 .landingText {
   line-height: 20px;
-  font-family: "roboto-regular";
+  /* font-family: "roboto-regular"; */
+  font-family: "irvin";
   font-size: 16px;
 }
 
 .title {
-  font-family: "roboto-bold-condensed-italic";
+  /* font-family: "roboto-bold-condensed-italic"; */
+  font-family: "irvin";
   font-size: 150px;
   line-height: 20px;
   color: #ffb4bf;
@@ -23,12 +25,13 @@
 
 button {
   display: inline-block;
-  background-color: #f0ebec;
+  background-color: #bdb9ba;
   border-radius: 10px;
   border: 4px;
   color: black;
   text-align: center;
-  font-family: "roboto-regular";
+  /* font-family: "roboto-regular";*/
+  font-family: "irvin";
   font-size: 16px;
   padding: 8px;
   width: 200px;
@@ -50,4 +53,9 @@ button:hover {
 @font-face {
   font-family: "roboto-bold-condensed-italic";
   src: url("fonts/Roboto-BoldCondensedItalic.ttf");
+}
+
+@font-face {
+  font-family: "irvin";
+  src: url("fonts/Irvin-Heading.ttf");
 }
