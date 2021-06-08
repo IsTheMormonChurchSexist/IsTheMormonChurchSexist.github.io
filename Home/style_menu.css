@@ -1,0 +1,129 @@
+.logo {
+  color: black;
+  letter-spacing: 0.2em;
+  font-family: "casual";
+
+  background-color: #ffffff;
+  height: 500px;
+  width: 600px;
+
+  margin: auto;
+  margin-top: -50px;
+}
+
+.logo h1 {
+  margin: -15px;
+  font-size: 80px;
+}
+
+.logo h3 {
+  margin: -10px;
+  font-size: 40px;
+}
+
+.logo #first-block {
+  position: relative;
+  left: 39%;
+}
+
+.logo #second-block {
+  position: relative;
+  left: 5%;
+}
+
+.logo #third-block {
+  position: relative;
+  left: 20%;
+}
+
+.logo #the {
+  position: relative;
+  left: 20%;
+  top: 22%;
+}
+
+.logo #and {
+  position: relative;
+  left: 61%;
+  top: 47%;
+}
+
+.logo #church {
+  position: relative;
+  left: -60px;
+}
+
+#subtitle {
+  font-family: "casual";
+  text-align: center;
+  font-size: 40px;
+  margin-top: -20px;
+  color: grey;
+  letter-spacing: 0.3em;
+}
+
+.hands {
+  display: flex;
+
+  margin-top: -50px;
+
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.hands h2 {
+  font-family: "casual";
+  font-size: 60px;
+  margin-top: 0px;
+  line-height: 0.9;
+}
+
+.hands img {
+  height: 150px;
+}
+
+.flip {
+  transform: scaleX(-1);
+}
+
+#left {
+  margin-right: 30px;
+}
+
+#left:hover {
+  cursor: pointer;
+}
+
+#left h2 {
+  text-align: right;
+  color: #ffb4bf;
+}
+
+#right {
+  margin-left: 30px;
+}
+
+#right:hover {
+  cursor: pointer;
+}
+
+#right h2 {
+  text-align: left;
+
+  background: -webkit-linear-gradient(
+    #ff0000ff,
+    #ff6600ff,
+    #ffcc00ff,
+    #71c837ff,
+    #0066ffff,
+    #aa00d4ff
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@font-face {
+  font-family: "casual";
+  src: url("Casual.ttf");
+}
