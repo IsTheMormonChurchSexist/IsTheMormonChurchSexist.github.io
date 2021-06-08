@@ -1,3 +1,5 @@
+/********** logo **********/
+
 .logo {
   color: black;
   letter-spacing: 0.2em;
@@ -21,38 +23,39 @@
   font-size: 40px;
 }
 
-.logo #first-block {
+#first-block {
   position: relative;
   left: 39%;
 }
 
-.logo #second-block {
+#second-block {
   position: relative;
   left: 5%;
 }
 
-.logo #third-block {
+#third-block {
   position: relative;
   left: 20%;
 }
 
-.logo #the {
+#the {
   position: relative;
   left: 20%;
   top: 22%;
 }
 
-.logo #and {
+#and {
   position: relative;
   left: 61%;
   top: 47%;
 }
 
-.logo #church {
+#church {
   position: relative;
   left: -60px;
 }
 
+/*
 #subtitle {
   font-family: "casual";
   text-align: center;
@@ -60,7 +63,9 @@
   margin-top: -20px;
   color: grey;
   letter-spacing: 0.3em;
-}
+}*/
+
+/********** hands **********/
 
 .hands {
   display: flex;
@@ -120,8 +125,11 @@
     #aa00d4ff
   );
   -webkit-background-clip: text;
+  background-clip: css(vendorPrefix);
   -webkit-text-fill-color: transparent;
 }
+
+/********** fonts **********/
 
 @font-face {
   font-family: "casual";
